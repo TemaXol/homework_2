@@ -1,5 +1,3 @@
-package optionaltask;
-
 import com.codeborne.selenide.conditions.Text;
 import com.codeborne.selenide.selector.ByText;
 import org.junit.jupiter.api.Test;
